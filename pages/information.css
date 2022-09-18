@@ -1,0 +1,38 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.info-container{
+    display: flex;
+}
+
+body{
+    background-color: #222555;
+    color: white;
+    
+}
+
+
+.personal{
+    width: 45vw;
+    height: 40vh;
+
+    margin: 50px;
+    
+    
+}
+
+.academic{
+
+    margin: 50px;
+}
+
+.academic-upload{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+}
